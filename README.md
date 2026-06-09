@@ -1,6 +1,6 @@
 # 📊 Accounting & Finance Portfolio — Sufyan
 
-This repository documents my practical accounting and finance experience, built over several years across a family-run engineering group, an international role in Dubai, and ongoing involvement in financial operations during my Accounting & Finance degree in the UK. My experience spans accounts payable and receivable, petty cash management, bank reconciliation, international transactions, Excel-based reporting, and stock management.
+This repository documents my practical accounting and finance experience, built over several years across a family-run engineering group, an international role in Dubai, and ongoing involvement in financial operations during my Accounting & Finance degree in the UK. My experience spans accounts payable and receivable, petty cash management, bank reconciliation, international transactions, Excel-based reporting, stock management, and active crypto trading.
 
 ---
 
@@ -9,7 +9,7 @@ This repository documents my practical accounting and finance experience, built 
 - [Advance Group of Companies — Family Business](#advance-group-of-companies--family-business)
 - [Advance Engineering LLC — Dubai](#advance-engineering-llc--dubai)
 - [Excel Dashboards & Financial Tools](#excel-dashboards--financial-tools)
-- [Stock Management](#stock-management)
+- [Stock Management & China Procurement](#stock-management--china-procurement)
 - [Crypto Trading & TradingView](#crypto-trading--tradingview)
 - [Tools & Skills](#tools--skills)
 
@@ -60,44 +60,53 @@ Throughout my finance work, I have developed strong Excel skills applied directl
 - **Financial statements** — income statements and basic balance sheet summaries prepared in Excel
 - **Online form integration** — connecting Excel workbooks to online data collection tools to automate data entry and reduce manual input
 
-> Example workbook templates (with dummy data) are included in this repository.
-
 ---
 
-## Stock Management
+## Stock Management & China Procurement
 
-As part of my ongoing involvement with the family business — particularly since COVID-19 disrupted global supply chains — I have taken an active role in stock and inventory management.
+As part of my ongoing involvement with the family business — particularly since COVID-19 disrupted global supply chains — I have taken an active role in stock, inventory, and international procurement management.
 
 **What I have done:**
 
 - Monitored stock levels across the business and flagged reorder points to avoid shortages
 - Maintained stock records in Excel — tracking inflows, outflows, and current inventory position
+- Managed **procurement from Chinese manufacturers** — coordinating product orders, maintaining product code records, and liaising with suppliers on lead times and delivery schedules
 - Supported procurement decisions by providing visibility on stock turnover and demand patterns
 - Gained practical understanding of supply chain challenges, particularly around import timelines and supplier lead times during and after the pandemic
+
+📄 **Client product list — China procurement:** [`CL&PL.pdf`](CL%26PL.pdf)
 
 ---
 
 ## Crypto Trading & TradingView
 
-Alongside my formal finance experience, I actively trade cryptocurrency and use **TradingView** for technical chart analysis.
+Alongside my formal finance experience, I actively trade cryptocurrency and use **TradingView** for technical chart analysis. My approach is structured and disciplined — informed by smart money concepts (SMC) including Fair Value Gaps (FVG) and Order Blocks.
 
 **What I do:**
 
-- Analyse price charts using technical indicators — including support and resistance levels, moving averages, and trend lines
-- Use TradingView's charting tools to identify trade setups and manage entries and exits
-- Apply risk management principles — position sizing, stop-loss placement, and risk/reward assessment before entering trades
+- Analyse price charts across multiple timeframes — using the **Daily chart** for macro trend direction and the **4-hour chart** for entry precision
+- Identify and mark **Fair Value Gaps (FVG)** — imbalances in price action where the market is likely to return and fill
+- Identify **Order Blocks** — institutional buying and selling zones used to anticipate high-probability reversals and continuations
+- Apply risk management principles — position sizing, stop-loss placement, and risk/reward assessment before entering any trade
+- Maintain a **trade journal** to log setups, entries, exits, and outcomes — used to review performance and improve decision-making over time
 - Stay informed on macro factors and market sentiment that influence crypto market movements
 
-> TradingView chart screenshots and annotated trade setups are included in this repository.
+📸 **BTC Daily chart analysis:** [`BTC pair.png`](BTC%20pair.png)
+
+📸 **BTC 4-hour chart analysis:** [`BTC on 4hrs.png`](BTC%20on%204hrs.png)
+
+📸 **FVG & Order Block annotations:** [`Concepts.png`](Concepts.png)
+
+📄 **Trade journal template:** [`Journal sheet - Sheet1.pdf`](Journal%20sheet%20-%20Sheet1.pdf)
 
 ---
 
 ## Tools & Skills
 
-`Microsoft Excel` `Pivot Tables` `Financial Dashboards` `Accounts Payable` `Accounts Receivable` `Petty Cash Management` `Bank Reconciliation` `International Transactions` `Budgeting` `Financial Statements` `Stock Management` `Inventory Tracking` `Crypto Trading` `TradingView` `Technical Analysis` `Risk Management`
+`Microsoft Excel` `Pivot Tables` `Financial Dashboards` `Accounts Payable` `Accounts Receivable` `Petty Cash Management` `Bank Reconciliation` `International Transactions` `Budgeting` `Financial Statements` `Stock Management` `China Procurement` `Inventory Tracking` `Crypto Trading` `TradingView` `Smart Money Concepts (SMC)` `Fair Value Gap (FVG)` `Order Blocks` `Technical Analysis` `Risk Management` `Trade Journaling`
 
 ---
 
 ## 📫 Contact
 
-Interested in my finance work? Connect via [LinkedIn](https://www.linkedin.com/in/sufyan-ali-khan/) or visit the main [GitHub profile](https://github.com/Sufyan313314).
+Interested in my finance work? Connect via [LinkedIn](https://www.linkedin.com/in/sufyan-ali-khan/?skipRedirect=true) or visit the main [GitHub profile](https://github.com/Sufyan313314).
