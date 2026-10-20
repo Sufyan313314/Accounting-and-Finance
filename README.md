@@ -109,4 +109,4 @@ These examples demonstrate personal study and chart annotation, not audited inve
 
 ## 📫 Contact
 
-Interested in my finance work? Connect via [LinkedIn](https://www.linkedin.com/in/sufyan-ali-khan/?skipRedirect=true) or visit the main [GitHub profile](https://github.com/Sufyan313314).
+Interested in my finance work? Connect via [LinkedIn](https://www.linkedin.com/in/sufyan-ali-khan) or visit the main [GitHub profile](https://github.com/Sufyan313314).
