@@ -74,22 +74,22 @@ As part of my ongoing involvement with the family business — particularly sinc
 - Supported procurement decisions by providing visibility on stock turnover and demand patterns
 - Gained practical understanding of supply chain challenges, particularly around import timelines and supplier lead times during and after the pandemic
 
-📄 **Client product list — China procurement:** [`CL&PL.pdf`](CL%26PL.pdf)
+**Procurement evidence:** A product-list document is included in this repository. Before sharing this portfolio with employers, confirm that the document contains no supplier, customer, pricing or other commercially sensitive information and that you have permission to publish it.
 
 ---
 
 ## Crypto Trading & TradingView
 
-Alongside my formal finance experience, I actively trade cryptocurrency and use **TradingView** for technical chart analysis. My approach is structured and disciplined — informed by smart money concepts (SMC) including Fair Value Gaps (FVG) and Order Blocks.
+Outside my formal finance experience, I study financial markets and use **TradingView** to practise chart analysis. This is a personal learning interest rather than a claim of professional trading performance.
 
-**What I do:**
+**Learning activities:**
 
-- Analyse price charts across multiple timeframes — using the **Daily chart** for macro trend direction and the **4-hour chart** for entry precision
-- Identify and mark **Fair Value Gaps (FVG)** — imbalances in price action where the market is likely to return and fill
-- Identify **Order Blocks** — institutional buying and selling zones used to anticipate high-probability reversals and continuations
-- Apply risk management principles — position sizing, stop-loss placement, and risk/reward assessment before entering any trade
-- Maintain a **trade journal** to log setups, entries, exits, and outcomes — used to review performance and improve decision-making over time
-- Stay informed on macro factors and market sentiment that influence crypto market movements
+- Review price action across daily and four-hour timeframes
+- Annotate charts with concepts such as Fair Value Gaps (FVG) and Order Blocks
+- Use a trade-journal template to practise recording assumptions, risk parameters and outcomes
+- Review how macroeconomic announcements can affect market sentiment
+
+These examples demonstrate personal study and chart annotation, not audited investment returns or professional investment advice.
 
 📸 **BTC Daily chart analysis:** [`BTC pair.png`](BTC%20pair.png)
 
@@ -103,7 +103,7 @@ Alongside my formal finance experience, I actively trade cryptocurrency and use 
 
 ## Tools & Skills
 
-`Microsoft Excel` `Pivot Tables` `Financial Dashboards` `Accounts Payable` `Accounts Receivable` `Petty Cash Management` `Bank Reconciliation` `International Transactions` `Budgeting` `Financial Statements` `Stock Management` `China Procurement` `Inventory Tracking` `Crypto Trading` `TradingView` `Smart Money Concepts (SMC)` `Fair Value Gap (FVG)` `Order Blocks` `Technical Analysis` `Risk Management` `Trade Journaling`
+`Microsoft Excel` `Pivot Tables` `Financial Dashboards` `Accounts Payable` `Accounts Receivable` `Petty Cash Management` `Bank Reconciliation` `International Transactions` `Budgeting` `Financial Statements` `Stock Management` `Procurement Support` `Inventory Tracking` `TradingView` `Market Analysis (personal study)` `Fair Value Gap (FVG)` `Order Blocks` `Trade Journaling`
 
 ---
 
